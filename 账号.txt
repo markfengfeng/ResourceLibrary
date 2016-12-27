@@ -1,0 +1,26 @@
+印厂账户：zhangxl  123
+出版社账户：lichuban   123
+排版端账户：jinshuting 123
+运维：admin   123
+
+
+SVN地址
+http://w2psvr.hold.founder.com:81/svn/ResourcePlatform
+SVN账号：xiehuafeng   123456
+
+
+
+tomcat账号：xiehf   123456
+
+云舒平台远程连接
+172.19.42.122   Administrator Founder123
+
+云舒平台网址
+http://172.19.42.122/PodCloud/login.action
+
+
+1000:9f4e8302b92c6db84c88f
+
+
+
+http://localhost:8080/PodCloud/setCookie.action?loginName=loginName&validCode=3330762111e1a8f184083ab078d8b4f9
